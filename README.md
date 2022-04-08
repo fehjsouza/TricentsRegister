@@ -2,7 +2,7 @@
 Teste para cadastro de cotação de seguro
 
 
-Testes desenvolv para Accenture usando
+Cadastro de usuário para cotação de seguro
 
 Pepino    
 Java
